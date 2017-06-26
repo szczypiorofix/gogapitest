@@ -17,7 +17,7 @@
     </head>
     <body>
         <div class="maindiv">
-            <h3>GOG API test:</h3>
+            <h3>GOG API test: Game Details</h3>
             <div id = "spinner" class="spinner">
                 <div class="bounce1"></div>
                 <div class="bounce2"></div>
